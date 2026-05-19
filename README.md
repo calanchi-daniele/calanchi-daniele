@@ -17,4 +17,4 @@
    Real-time estimation tool with .NET 9 + SignalR + Playwright E2E tests
  
  ## 📫 Let's connect
- [LinkedIn](https://linkedin.com/in/daniele-calanchi)
+ [LinkedIn](https://linkedin.com/in/daniele-calanchi) [Mail](mailto:calanchid@gmail.com)
