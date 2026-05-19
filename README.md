@@ -18,4 +18,5 @@
  
  ## 📫 Let's connect
  [LinkedIn](https://linkedin.com/in/daniele-calanchi) 
+ 
  [Mail](mailto:calanchid@gmail.com)
