@@ -1,13 +1,5 @@
  # Hi, I'm Daniele 👋
  
- Staff Software Engineer with 12+ years building high-throughput 
- enterprise backend systems in .NET/C#.
- 
- I specialize in:
- - 🔧 Event-driven architectures & distributed systems
- - ⚡ High-concurrency state management & data sync layers
- - ☁️ Cloud-native backend services (AWS, Azure, Docker, Kubernetes)
- 
  ## 🛠️ Current Stack
  `C#` `.NET 9` `ASP.NET Core` `SignalR` `RabbitMQ` 
  `Docker` `Kubernetes` `AWS` `Azure` `React`
