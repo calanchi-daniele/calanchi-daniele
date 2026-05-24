@@ -1,4 +1,4 @@
- # Hi, I'm Daniele 👋
+ Hi, I'm Daniele
  
  ## 🛠️ Current Stack
  `C#` `.NET 9` `ASP.NET Core` `SignalR` `RabbitMQ` 
